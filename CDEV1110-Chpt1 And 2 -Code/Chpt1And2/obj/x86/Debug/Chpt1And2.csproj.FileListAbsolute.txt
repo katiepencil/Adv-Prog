@@ -1,0 +1,12 @@
+C:\Projects\BusinessApplication\Chpt1And2\Chpt1And2\bin\Debug\Chpt1And2.exe
+C:\Projects\BusinessApplication\Chpt1And2\Chpt1And2\bin\Debug\Chpt1And2.pdb
+C:\Projects\BusinessApplication\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.exe
+C:\Projects\BusinessApplication\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.pdb
+C:\Projects\BusinessApplication\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.csprojResolveAssemblyReference.cache
+C:\Projects\AdvanceProgramming\Chpt1And2\Chpt1And2\bin\Debug\Chpt1And2.exe
+C:\Projects\AdvanceProgramming\Chpt1And2\Chpt1And2\bin\Debug\Chpt1And2.pdb
+C:\Projects\AdvanceProgramming\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.csprojResolveAssemblyReference.cache
+C:\Projects\AdvanceProgramming\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.exe
+C:\Projects\AdvanceProgramming\Chpt1And2\Chpt1And2\obj\x86\Debug\Chpt1And2.pdb
+C:\Users\thokata\Desktop\CDEV1110-Chpt1 And 2 -Code\Chpt1And2\obj\x86\Debug\Chpt1And2.exe
+C:\Users\thokata\Desktop\CDEV1110-Chpt1 And 2 -Code\Chpt1And2\obj\x86\Debug\Chpt1And2.pdb
