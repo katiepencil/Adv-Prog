@@ -1,0 +1,7 @@
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\bin\Debug\Chapter3and4_012516.exe
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\bin\Debug\Chapter3and4_012516.pdb
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\obj\x86\Debug\Chapter3and4_012516.Properties.Resources.resources
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\obj\x86\Debug\Chapter3and4_012516.csproj.GenerateResource.Cache
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\obj\x86\Debug\Chapter3and4_012516.exe
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\obj\x86\Debug\Chapter3and4_012516.pdb
+C:\Users\thokata\Desktop\Adv Prog\Chapter3and4_012516\Chapter3and4_012516\obj\x86\Debug\Chapter3and4_012516.ktForm.resources
