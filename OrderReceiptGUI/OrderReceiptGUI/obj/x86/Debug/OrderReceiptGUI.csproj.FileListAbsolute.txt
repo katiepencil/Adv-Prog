@@ -1,0 +1,7 @@
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.pdb
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Form1.resources
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.Properties.Resources.resources
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.csproj.GenerateResource.Cache
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\OrderReceiptGUI\OrderReceiptGUI\obj\x86\Debug\OrderReceiptGUI.pdb

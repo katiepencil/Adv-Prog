@@ -1,0 +1,4 @@
+C:\Users\thokata\Desktop\Adv Prog\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.exe
+C:\Users\thokata\Desktop\Adv Prog\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\FahrenheitToCelsius.pdb
+C:\Users\thokata\Desktop\Adv Prog\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.exe
+C:\Users\thokata\Desktop\Adv Prog\FahrenheitToCelsius\FahrenheitToCelsius\obj\x86\Debug\FahrenheitToCelsius.pdb

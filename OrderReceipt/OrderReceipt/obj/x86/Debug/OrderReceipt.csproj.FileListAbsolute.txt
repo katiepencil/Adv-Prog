@@ -1,0 +1,4 @@
+C:\Users\thokata\Desktop\Adv Prog\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Users\thokata\Desktop\Adv Prog\OrderReceipt\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Users\thokata\Desktop\Adv Prog\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.exe
+C:\Users\thokata\Desktop\Adv Prog\OrderReceipt\OrderReceipt\obj\x86\Debug\OrderReceipt.pdb

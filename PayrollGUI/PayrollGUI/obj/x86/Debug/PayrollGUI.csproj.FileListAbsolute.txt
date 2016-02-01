@@ -1,0 +1,7 @@
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\obj\x86\Debug\PayrollGUI.Properties.Resources.resources
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\obj\x86\Debug\PayrollGUI.csproj.GenerateResource.Cache
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\obj\x86\Debug\PayrollGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\obj\x86\Debug\PayrollGUI.pdb
+C:\Users\thokata\Desktop\Adv Prog\PayrollGUI\PayrollGUI\obj\x86\Debug\PayrollGUI.YourPayrollGUI.resources

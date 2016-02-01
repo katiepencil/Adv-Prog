@@ -1,0 +1,4 @@
+C:\Users\thokata\Desktop\Adv Prog\ProjectedSalesInteractive\ProjectedSalesInteractive\bin\Debug\ProjectedSalesInteractive.exe
+C:\Users\thokata\Desktop\Adv Prog\ProjectedSalesInteractive\ProjectedSalesInteractive\bin\Debug\ProjectedSalesInteractive.pdb
+C:\Users\thokata\Desktop\Adv Prog\ProjectedSalesInteractive\ProjectedSalesInteractive\obj\x86\Debug\ProjectedSalesInteractive.exe
+C:\Users\thokata\Desktop\Adv Prog\ProjectedSalesInteractive\ProjectedSalesInteractive\obj\x86\Debug\ProjectedSalesInteractive.pdb
