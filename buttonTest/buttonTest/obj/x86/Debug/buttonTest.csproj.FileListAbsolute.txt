@@ -1,0 +1,7 @@
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\bin\Debug\buttonTest.exe
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\bin\Debug\buttonTest.pdb
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\obj\x86\Debug\buttonTest.Form1.resources
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\obj\x86\Debug\buttonTest.Properties.Resources.resources
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\obj\x86\Debug\buttonTest.csproj.GenerateResource.Cache
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\obj\x86\Debug\buttonTest.exe
+C:\Users\thokata\Desktop\Adv Prog\buttonTest\buttonTest\obj\x86\Debug\buttonTest.pdb

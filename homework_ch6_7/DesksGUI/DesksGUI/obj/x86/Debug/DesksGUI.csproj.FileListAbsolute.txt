@@ -1,0 +1,9 @@
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\bin\Debug\DesksGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\bin\Debug\DesksGUI.pdb
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.Form1.resources
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.Properties.Resources.resources
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.csproj.GenerateResource.Cache
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.pdb
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.exe
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\DesksGUI\DesksGUI\obj\x86\Debug\DesksGUI.pdb

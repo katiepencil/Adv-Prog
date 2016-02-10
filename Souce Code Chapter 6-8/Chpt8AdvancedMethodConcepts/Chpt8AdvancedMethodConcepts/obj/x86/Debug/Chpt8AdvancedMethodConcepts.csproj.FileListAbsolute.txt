@@ -1,0 +1,6 @@
+C:\Projects\AdvanceProgramming\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\bin\Debug\Chpt8AdvancedMethodConcepts.exe
+C:\Projects\AdvanceProgramming\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\bin\Debug\Chpt8AdvancedMethodConcepts.pdb
+C:\Projects\AdvanceProgramming\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\obj\x86\Debug\Chpt8AdvancedMethodConcepts.exe
+C:\Projects\AdvanceProgramming\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\obj\x86\Debug\Chpt8AdvancedMethodConcepts.pdb
+C:\Users\thokata\Desktop\Souce Code Chapter 6-8\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\obj\x86\Debug\Chpt8AdvancedMethodConcepts.exe
+C:\Users\thokata\Desktop\Souce Code Chapter 6-8\Chpt8AdvancedMethodConcepts\Chpt8AdvancedMethodConcepts\obj\x86\Debug\Chpt8AdvancedMethodConcepts.pdb

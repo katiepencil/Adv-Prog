@@ -1,0 +1,6 @@
+C:\Users\thokata\Desktop\Adv Prog\Desks\Desks\bin\Debug\Desks.exe
+C:\Users\thokata\Desktop\Adv Prog\Desks\Desks\bin\Debug\Desks.pdb
+C:\Users\thokata\Desktop\Adv Prog\Desks\Desks\obj\x86\Debug\Desks.exe
+C:\Users\thokata\Desktop\Adv Prog\Desks\Desks\obj\x86\Debug\Desks.pdb
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\Desks\Desks\obj\x86\Debug\Desks.exe
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\Desks\Desks\obj\x86\Debug\Desks.pdb

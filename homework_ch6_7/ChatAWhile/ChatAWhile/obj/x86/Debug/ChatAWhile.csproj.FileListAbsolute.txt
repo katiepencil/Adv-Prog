@@ -1,0 +1,6 @@
+C:\Users\thokata\Desktop\Adv Prog\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.exe
+C:\Users\thokata\Desktop\Adv Prog\ChatAWhile\ChatAWhile\bin\Debug\ChatAWhile.pdb
+C:\Users\thokata\Desktop\Adv Prog\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\thokata\Desktop\Adv Prog\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.exe
+C:\Users\thokata\Desktop\Adv Prog\homework_ch6_7\ChatAWhile\ChatAWhile\obj\x86\Debug\ChatAWhile.pdb

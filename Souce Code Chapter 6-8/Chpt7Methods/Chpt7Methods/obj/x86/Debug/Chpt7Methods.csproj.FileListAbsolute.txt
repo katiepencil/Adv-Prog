@@ -1,0 +1,6 @@
+C:\Projects\AdvanceProgramming\Chpt7Methods\Chpt7Methods\bin\Debug\Chpt7Methods.exe
+C:\Projects\AdvanceProgramming\Chpt7Methods\Chpt7Methods\bin\Debug\Chpt7Methods.pdb
+C:\Projects\AdvanceProgramming\Chpt7Methods\Chpt7Methods\obj\x86\Debug\Chpt7Methods.exe
+C:\Projects\AdvanceProgramming\Chpt7Methods\Chpt7Methods\obj\x86\Debug\Chpt7Methods.pdb
+C:\Users\thokata\Desktop\Souce Code Chapter 6-8\Chpt7Methods\Chpt7Methods\obj\x86\Debug\Chpt7Methods.exe
+C:\Users\thokata\Desktop\Souce Code Chapter 6-8\Chpt7Methods\Chpt7Methods\obj\x86\Debug\Chpt7Methods.pdb
